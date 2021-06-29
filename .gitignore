@@ -1,3 +1,4 @@
+
 # gitignore for C++
 # Compiled Object files
 *.slo
@@ -21,4 +22,4 @@ Release
 *.vbproj.user
 ipch
 *sdf
-*.dll
+*.dll*.vcxproj.filters*.vcxproj.user
